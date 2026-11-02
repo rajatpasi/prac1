@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 
-print("I changed the content")
+print("Git merge conflict resolution completed successfully")
